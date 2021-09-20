@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">C18_Implicit_Intent</string>
+    <string name="phone">Make Phone call</string>
+    <string name="maps">Open Maps</string>
+    <string name="browser">Open Browser</string>
+    <string name="Number">Enter Number</string>
+    <string name="location">Enter Location</string>
+    <string name="website">Enter URL</string>
+    <string name="required">Required*</string>
+    <string name="prefix">+84</string>
+    <string name="prefixWeb">www.</string>
+</resources>
